@@ -8,7 +8,7 @@
 
 - 📖 I have a PhD in **Operations Research**
 
-- 🧑‍💼 I’m an **Operation Research Scientist @ Laminaar Aviation Infotech**
+- 🧑‍💼 I’m an **Operations Research Scientist @ Laminaar Aviation Infotech**
 
 - 💻 I’m currently improving my **Data structures and Algorithm skills**
 

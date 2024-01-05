@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mr.khamechian@gmail.com**
 
-- 🔗 If you want to know more about me, here is my **LinkedIn** profile : https://www.linkedin.com/in/marshall-khamechian/
+- 🔗 If you want to know more about me and my experiences, here is my **LinkedIn** profile : https://www.linkedin.com/in/marshall-khamechian/
 
 
 <p align="left">

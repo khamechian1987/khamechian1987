@@ -1,3 +1,5 @@
+
+
 ![MasterHead](https://media.licdn.com/dms/image/D4D12AQFWHARtcSCJ6g/article-cover_image-shrink_720_1280/0/1683900475931?e=1709769600&v=beta&t=x1GBgIYIfUE_w6DY6SZeHP28HzXf6AsDbfONMjPR3q0)
 <h1 align="center">Hi 👋, I'm Marshall</h1>
 <h3 align="center">A passionate Operations research scientis who loves to code </h3>
@@ -12,10 +14,11 @@
 
 - 💻 I’m currently improving my **Data structures and Algorithm skills**
 
-- 📫 How to reach me **mr.khamechian@gmail.com**
+- 📫 How to reach me **marshall.khamechian@gmail.com**
 
 - 🔗 If you want to know more about me and my experiences, here is my **LinkedIn** profile : https://www.linkedin.com/in/marshall-khamechian/
 
+<img src="https://leetcard.jacoblin.cool/khamechian" width="500" height="250" align="right">
 
 <p align="left">
 </p>

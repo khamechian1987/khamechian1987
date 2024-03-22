@@ -1,7 +1,7 @@
 
 
 <p align="center" style="display: block;">
-  <img src="https://github.com/khamechian1987/khamechian1987/assets/49104492/634b7308-1abc-45a8-8f44-884aebe9dd1d" alt="MasterHead" width="800" height="400"">
+  <img src="https://www.ot.mgt.tum.de/fileadmin/_processed_/8/4/csm_wordle_18_3377ca2675.png" alt="MasterHead" width="1000" height="300"">
 </p>
 
 

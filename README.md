@@ -19,6 +19,7 @@
 - 🔗 If you want to know more about me and my experiences, here is my **LinkedIn** profile : https://www.linkedin.com/in/marshall-khamechian/
 
 <img src="https://leetcard.jacoblin.cool/khamechian" width="500" height="250" align="right">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={khamechian}" alt="LeetCode Badges"/>
 
 <p align="left">
 </p>

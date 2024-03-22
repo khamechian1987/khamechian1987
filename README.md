@@ -1,6 +1,10 @@
 
 
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQFWHARtcSCJ6g/article-cover_image-shrink_720_1280/0/1683900475931?e=1709769600&v=beta&t=x1GBgIYIfUE_w6DY6SZeHP28HzXf6AsDbfONMjPR3q0)
+<p align="center" style="display: block;">
+  <img src="https://github.com/khamechian1987/khamechian1987/assets/49104492/634b7308-1abc-45a8-8f44-884aebe9dd1d" alt="MasterHead" width="800" height="400"">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Marshall</h1>
 <h3 align="center">A passionate Operations research scientist who loves to code </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">

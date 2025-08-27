@@ -14,7 +14,7 @@
 
 - 📖 I have a PhD in **Operations Research**
 
-- 🧑‍💼 I’m an **Operations Research Scientist @ Laminaar Aviation Infotech**
+- 🧑‍💼 I’m an **Senior Operations Research Scientist @ CSX**
 
 - 💻 I’m currently improving my **Data structures and Algorithm skills**
 

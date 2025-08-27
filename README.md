@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/khamechian" width="600" height="250" alt="LeetCode Stats"/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=khamechian&theme=black" width="320" height="250" alt="LeetCode Badges"/>
 </p>
 
 ---

@@ -16,9 +16,7 @@
 
 - 🧑‍💼 I’m an **Senior Operations Research Scientist @CSX**
 
-- 💻 I’m currently improving my **Data structures and Algorithm skills**
-
-- 📫 How to reach me **marshall.khamechian@gmail.com**
+- 📫 How to reach me **Mr.khamechian@gmail.com**
 
 - 🔗 If you want to know more about me and my experiences, here is my **LinkedIn** profile : https://www.linkedin.com/in/marshall-khamechian/
 
